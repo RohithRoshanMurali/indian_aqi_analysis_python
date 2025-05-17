@@ -40,7 +40,7 @@ This project explores AQI data from five major Indian cities between 2015 and 20
 
 ## 📊 Sample Visual
 
-![Heatmap](heatmap-2.png)
+![Heatmap](heatmap-3.png)
 
 ---
 
