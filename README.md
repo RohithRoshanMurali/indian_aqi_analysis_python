@@ -6,7 +6,7 @@ This project explores AQI data from five major Indian cities between 2015 and 20
 
 ## 📂 Dataset
 
-- Daily/Monthly AQI data from 2015 to 2024
+- Daily AQI data from 2015 to 2024
 - Cities: Delhi, Mumbai, Bangalore, Chennai, Kolkata
 
 ---
